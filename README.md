@@ -1,1 +1,1 @@
-# CSC-72_Lab2
+# CSC172_Lab2
